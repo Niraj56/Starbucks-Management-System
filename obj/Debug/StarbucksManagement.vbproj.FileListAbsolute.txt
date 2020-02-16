@@ -1,0 +1,30 @@
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.vbprojAssemblyReference.cache
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.vbproj.GenerateResource.cache
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.vbproj.CoreCompileInputs.cache
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.StarbucksManagement.resources
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.Form1.resources
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.Form2.resources
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.Resources.resources
+C:\Users\tnira\Downloads\Compressed\niray\niray\bin\Debug\StarbucksManagement.exe.config
+C:\Users\tnira\Downloads\Compressed\niray\niray\bin\Debug\StarbucksManagement.exe
+C:\Users\tnira\Downloads\Compressed\niray\niray\bin\Debug\StarbucksManagement.pdb
+C:\Users\tnira\Downloads\Compressed\niray\niray\bin\Debug\StarbucksManagement.xml
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.exe
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.xml
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.pdb
+C:\Users\tnira\Downloads\Compressed\niray\niray\obj\Debug\StarbucksManagement.Form3.resources
+C:\Users\ntiwa\Desktop\Niraj project2\bin\Debug\StarbucksManagement.exe.config
+C:\Users\ntiwa\Desktop\Niraj project2\bin\Debug\StarbucksManagement.exe
+C:\Users\ntiwa\Desktop\Niraj project2\bin\Debug\StarbucksManagement.pdb
+C:\Users\ntiwa\Desktop\Niraj project2\bin\Debug\StarbucksManagement.xml
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.vbprojAssemblyReference.cache
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.StarbucksManagement.resources
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.Form1.resources
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.Form2.resources
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.Form3.resources
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.Resources.resources
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.vbproj.GenerateResource.cache
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.vbproj.CoreCompileInputs.cache
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.exe
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.xml
+C:\Users\ntiwa\Desktop\Niraj project2\obj\Debug\StarbucksManagement.pdb
